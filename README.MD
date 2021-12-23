@@ -16,8 +16,8 @@
 | OS Disk (NVMe)   | Samsung 970 EVO 500GB                      |
 | 2nd Disk (NVMe)  | WDC PC SN520 128GB                         |
 
-**macOS version**: 12.0.1 (21A559) \
-**OpenCore version**: 0.7.5
+**macOS version**: 12.1 (21C52) \
+**OpenCore version**: 0.7.6
 
 ## MacOS Compatibility
 
